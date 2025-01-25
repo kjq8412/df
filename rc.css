@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fh {
+    text-decoration: none;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+body {
+    background-image: url(bj1.jpg );
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h4 {
+    color: #5142c45b;
+    font-size: 20px;
+}
+
+h1 {
+    text-decoration: underline;
+    font: italic 300 40px '华文行楷';
+    color: #8015b2d6;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+div img {
+    width: 380px;
+    padding: 10px;
+}
+
+.kj {
+    display: inline-block;
+    height: 500px;
+    background-color: white;
+    margin: 5px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 10px 56px;
+}
+
+.kj:hover {
+    box-shadow: 10px 10px 10px -8px rgb(0, 0, 0, .3);
+}
+
+.l {
+    font-size: 12px;
+    color: #b0b0b0;
+    padding: 0 10px;
+    margin-top: 10px;
+}
+
+.x {
+    height: 70px;
+    font-size: 15px;
+    padding: 0 30px;
+}
+
+.j {
+    height: 40px;
+    font-size: 15px;
+    padding: 0 30px;
+    color: #f63311cd;
+}
+
+.x span {
+    color: #ea52f86a;
+}

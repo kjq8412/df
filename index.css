@@ -1,0 +1,135 @@
+  * {
+      margin: 0;
+      padding: 0;
+  }
+
+  a {
+      text-decoration: none;
+  }
+
+  .w {
+      width: 1200px;
+      margin: 0 auto;
+  }
+
+  li {
+      list-style: none;
+  }
+
+  .h {
+      height: 62px;
+      margin: 30px auto;
+  }
+
+  .l {
+      float: left;
+      width: 158px;
+      height: 62px;
+  }
+
+  .dh {
+      float: left;
+      margin-left: 60px;
+  }
+
+  .dh li {
+      float: left;
+      margin: 0 15px;
+  }
+
+  .dh li a {
+      display: block;
+      height: 62px;
+      padding: 0 10px;
+      line-height: 62px;
+      font-size: 20px;
+      color: #050505;
+  }
+
+  .dh li a:hover {
+      border-bottom: 2px solid #aa29c171;
+      color: #e9423994;
+  }
+
+  body {
+      background-image: url(bj1.jpg );
+      background-size: cover;
+      background-attachment: fixed;
+  }
+
+  .us {
+      float: right;
+      line-height: 62px;
+      margin-right: 30px;
+      font-size: 20px;
+  }
+
+  .us a {
+      display: block;
+      color: #1d4adf8c;
+  }
+
+  .us a:hover {
+      border-bottom: 2px solid #e85e09a5;
+      color: #ec0808a6;
+  }
+
+  .zj {
+      float: left;
+      width: 190px;
+      height: 400px;
+      background: rgba(0, 0, 0, 0.3);
+      margin-left: 230px;
+      margin-top: 50px;
+  }
+
+  .zj ul li {
+      height: 65px;
+      line-height: 55px;
+      padding: 8px 20px;
+  }
+
+  .zj ul li a {
+      font-size: 28px;
+      color: #fff;
+  }
+
+  .zj ul li a span {
+      float: right;
+  }
+
+  .zj ul li a:hover {
+      color: #3a48df6d;
+  }
+
+  .zt {
+      float: left;
+      height: 400px;
+      width: 600px;
+      margin-top: 50px;
+  }
+
+  .co {
+      float: right;
+      width: 230px;
+      height: 300px;
+      margin-top: 50px;
+      margin-right: 230px;
+  }
+
+  .co h2 {
+      height: 48px;
+      background-color: #9bceea;
+      text-align: center;
+      line-height: 48px;
+      font-size: 18px;
+      color: #fff;
+  }
+
+  .bd {
+      padding: 0 20px;
+      font-size: 25px;
+      font-family: "华文行楷";
+      color: #a5a5a5;
+      background-color: #fff;
+  }

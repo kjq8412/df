@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    color: #5142c45b;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(bj1.jpg );
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.fh {
+    text-decoration: none;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+
+.j {
+    font: italic 200 50px '华文新魏';
+    margin: 0 auto;
+    width: 1200px;
+    margin-top: 10px;
+    text-indent: 2em;
+
+}
+
+.x {
+    text-decoration: underline;
+    font: italic 300 40px '华文行楷';
+    color: #b300c4c2;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.zp {
+    margin: 0 auto;
+    height: 480px;
+    width: 720px;
+    padding-top: 15px;
+}
+
+.zp img {
+    width: 100%;
+}

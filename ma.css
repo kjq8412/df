@@ -1,0 +1,47 @@
+.k {
+    color: #888;
+    font-size: 16px;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    color: #5142c45b;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(bj1.jpg );
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.fh {
+    text-decoration: none;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.j {
+    text-align: center;
+}
+
+img {
+    width: 650px;
+    height: 700px;
+}
+
+p {
+    text-indent: 2em;
+    font: 45px/40px '华文行楷';
+    padding: 45px;
+}
